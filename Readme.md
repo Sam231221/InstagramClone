@@ -1,5 +1,4 @@
 ##Instagram Clone
-Using Boostrap framework
 
 For Pc's version only.
 Includes:
